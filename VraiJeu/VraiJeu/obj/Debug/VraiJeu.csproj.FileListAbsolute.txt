@@ -1,0 +1,12 @@
+C:\Users\basan\OneDrive\Documents\Desktop\2em Q2\LABEYE\UNOGame\VraiJeu\VraiJeu\bin\Debug\VraiJeu.exe.config
+C:\Users\basan\OneDrive\Documents\Desktop\2em Q2\LABEYE\UNOGame\VraiJeu\VraiJeu\bin\Debug\VraiJeu.exe
+C:\Users\basan\OneDrive\Documents\Desktop\2em Q2\LABEYE\UNOGame\VraiJeu\VraiJeu\bin\Debug\VraiJeu.pdb
+C:\Users\basan\OneDrive\Documents\Desktop\2em Q2\LABEYE\UNOGame\VraiJeu\VraiJeu\obj\Debug\VraiJeu.csproj.AssemblyReference.cache
+C:\Users\basan\OneDrive\Documents\Desktop\2em Q2\LABEYE\UNOGame\VraiJeu\VraiJeu\obj\Debug\VraiJeu.FormePartie.resources
+C:\Users\basan\OneDrive\Documents\Desktop\2em Q2\LABEYE\UNOGame\VraiJeu\VraiJeu\obj\Debug\VraiJeu.MenuForme.resources
+C:\Users\basan\OneDrive\Documents\Desktop\2em Q2\LABEYE\UNOGame\VraiJeu\VraiJeu\obj\Debug\VraiJeu.Properties.Resources.resources
+C:\Users\basan\OneDrive\Documents\Desktop\2em Q2\LABEYE\UNOGame\VraiJeu\VraiJeu\obj\Debug\VraiJeu.csproj.GenerateResource.cache
+C:\Users\basan\OneDrive\Documents\Desktop\2em Q2\LABEYE\UNOGame\VraiJeu\VraiJeu\obj\Debug\VraiJeu.csproj.CoreCompileInputs.cache
+C:\Users\basan\OneDrive\Documents\Desktop\2em Q2\LABEYE\UNOGame\VraiJeu\VraiJeu\obj\Debug\VraiJeu.exe
+C:\Users\basan\OneDrive\Documents\Desktop\2em Q2\LABEYE\UNOGame\VraiJeu\VraiJeu\obj\Debug\VraiJeu.pdb
+C:\Users\basan\OneDrive\Documents\Desktop\2em Q2\LABEYE\UNOGame\VraiJeu\VraiJeu\obj\Debug\VraiJeu.exe.config
